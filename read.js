@@ -1,3 +1,2 @@
-function(){
-    
-}
+let m = "hello"
+console.log(m);
